@@ -1,4 +1,4 @@
-
+PAS FINI
 def chiffrePortebonheur(nb):
     s=0
     for i in nb:
