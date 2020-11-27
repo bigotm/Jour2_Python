@@ -1,3 +1,4 @@
+#un peu galère donc j'ai cherché sur internet et j'ai trouvé ça . Ca m'a aidé a mieux comprendre 
 def powerset(s):
     x = len(s)
     for i in range(1 << x):
