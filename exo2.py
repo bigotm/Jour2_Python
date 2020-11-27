@@ -1,3 +1,4 @@
+
 def generateur():
     liste="abcdef"
     return liste
